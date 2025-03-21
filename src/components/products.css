@@ -1,19 +1,12 @@
 .App-Products-Row{
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .App-Products-Box{
-    margin: 5px;
-    padding: 5px;
-    border: 1px solid rgb(31, 22, 22);
-    border-radius: 10px;
     width: 300px;
-}
-.btn{
-    background-color: rgb(63, 208, 63);
-}
-img{
-    width:300px;
-    height:300px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 2px;
 }
